@@ -1,5 +1,5 @@
-let localStream;//the users audio data
-let remoteStream;//the friends audio data
+let localStream;
+let remoteStream;
 let peerConnection;
 
 const servers = {

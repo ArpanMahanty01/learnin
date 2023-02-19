@@ -1,0 +1,22 @@
+.fullpage{
+    display: flex;
+    width: 98.5vw;
+    height: 95vh;
+    border: 2px solid black;
+}
+
+.codeEditor{
+    background-color: cornsilk;
+    width: 50vi;
+    height: 95vb;
+    
+}
+
+.chat{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(126, 205, 241);
+    width: 50vi;
+    height: 95vb; 
+}
+
